@@ -10,4 +10,6 @@ This project's purpose is to build a reverse image search engine using ResNet-15
 2. Images for displaying (unzip the file and put it in the root folder):
    https://drive.google.com/file/d/1nLP_rRrpNQE9KVfyCtAZY-Gp8RfM31SL/view?usp=sharing
 
+&nbsp;
+
 ![Website Screeshot](https://github.com/KUANCHENGFU/Reverse-Image-Search-Engine/blob/main/static/screenshot.png)
